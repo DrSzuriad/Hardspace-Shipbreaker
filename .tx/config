@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[hardspace-shipbreaker-spolszczenie.en2xlsx]
+file_filter = file/<lang>/en2.xlsx
+minimum_perc = 0
+source_file = file/en/en2.xlsx
+source_lang = en
+type = XLSX
